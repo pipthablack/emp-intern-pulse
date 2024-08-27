@@ -25,7 +25,7 @@ SECRET_KEY = 'django-insecure-gp4yjtw19c)h5s7t*vr^jzo*k8@p*l7t_vunzczha1hu7mj9wo
 # SECURITY WARNING: don't run with debug turned on in production!
 DEBUG = True
 
-ALLOWED_HOSTS = ['emp-intern-pulse.onrender.com', 'localhost', '127.0.0.1']
+ALLOWED_HOSTS = ['emp-intern-pulse.onrender.com']
 
 
 
